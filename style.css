@@ -38,6 +38,9 @@ textarea{
     .gradient__form{
         display: block;
     }
+    body{
+        height:90vh
+    }
 }
 
 #css{
